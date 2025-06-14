@@ -1,4 +1,4 @@
-# Projeto-rede-social
+
 
 # FERRAMENTAS USADAS ALÉM DE REACT, TYPESCRIPT, ZOD e mais frameworks
 1. axios, pra fetchs mais simplificados.
